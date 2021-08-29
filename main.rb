@@ -12,8 +12,8 @@ FACTS = [
   "Turtles can live for more than 100 years\xF0\x9F\x90\xA2"
 ]
 ADVICE = [
-  "The Ruby book is waiting for you ... ",
-  "Check out what's new on Netflix\xF0\x9F\x8E\xAC",
+  "The Ruby book is waiting for you... ",
+  "Check out what's new on Netflix \xF0\x9F\x8E\xAC",
   "Tea drinking is always a good idea \xE2\x98\x95"
 ]
 
